@@ -1,4 +1,4 @@
-# Cybersecurity Research Papers
+# Cyber Security Research Papers
 
 ## Overview
 
